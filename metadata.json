@@ -1,0 +1,5 @@
+{
+  "name": "Jatra",
+  "description": "Jatra - An application to estimate travel fares between two points within Dhaka city.",
+  "requestFramePermissions": []
+}
